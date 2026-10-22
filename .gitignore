@@ -1,0 +1,11 @@
+node_modules/
+.playwright-cli/
+output/
+.DS_Store
+xcuserdata/
+*.xcuserstate
+DerivedData/
+.env
+.env.*
+*.p12
+*.mobileprovision
